@@ -18,7 +18,6 @@ let checkcount = 0;
 uppercaseCheck.checked = true;
 setIndicator("#ccc");
 handleSlider();
-// set strength circle color to grey
 
 
 // set passwordLength
